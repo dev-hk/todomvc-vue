@@ -1,5 +1,10 @@
 # todomvc-vue
 
+## Reference & Dependency
+- http://todomvc.com/
+- https://github.com/tastejs/todomvc-app-template
+- https://github.com/tastejs/todomvc-app-css
+
 ## Project setup
 ```
 npm install
